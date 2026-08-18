@@ -5,3 +5,5 @@ dist/
 .next/
 *.tsbuildinfo
 next-env.d.ts
+*.db
+*.db-journal
